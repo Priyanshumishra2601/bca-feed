@@ -1993,14 +1993,14 @@
     padding: 150px 0 120px; }
     @media (max-width: 991px) {
       .feature-area {
-        padding: 80px 0px;
-        /* width: 600px; */
-        justify-content: center;
-        overflow: hidden;
-        
-        display: block;
-        flex-direction: column;
-        overflow: hidden; }
+              padding: 80px 0px;
+              /* width: 600px; */
+              justify-content: center;
+              
+              
+              display: block;
+              flex-direction: column;
+             height: 100vh; }
   
   .feature-item {
     padding: 50px 40px;
@@ -2872,13 +2872,15 @@
               width: 630px;
               height: 10vh;
             }
-            .feature-area{
+            .feature-area {
+              padding: 80px 0px;
+              /* width: 600px; */
+              justify-content: center;
               
-              position: relative;
-    display: flex;
-    width: 600px;
-    padding-left: 20px;
-            }
+              
+              display: block;
+              flex-direction: column;
+             height: 100vh; }
               .owl-carousel .owl-stage {
           position: relative;
           -ms-touch-action: pan-Y; }
