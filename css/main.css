@@ -2853,60 +2853,7 @@
           transition: all 0.3s ease 0s; }
 
 
-          @media (max-width: 480px){
-           
-              .banner-area{
-                display: block;
-                width: 620px;
-              }
-              .home-banner-area{
-                width: 630px;
-                height: 800px;
-              }
-            .courses-area{
-              width:630px ;
-            }
-            .whole-wrap{
-              width: 630px;
-            }
-            .footer-area{
-              width: 630px;
-              height: 10vh;
-            }
-            .feature-area {
-              padding: 80px 0px;
-              /* width: 600px; */
-              justify-content: center;
-              
-              
-              display: block;
-              flex-direction: column;
-             height: 100vh; }
-        
-        .feature-item {
-          padding: 50px 40px;
-          background: #f1f9ff;
-          margin-bottom: 30px;
-          -webkit-transition: all 0.3s ease 0s;
-          -moz-transition: all 0.3s ease 0s;
-          -o-transition: all 0.3s ease 0s;
-          transition: all 0.3s ease 0s; 
-        }
-           
-        .owl-carousel .owl-stage {
-          position: relative;
-          -ms-touch-action: pan-Y; }
-        .owl-carousel .owl-stage:after {
-          content: ".";
-          display: block;
-          clear: both;
-          visibility: visible;
-          line-height: 0;
-          height: 0; } 
-          .wow {
-            visibility: visible;
-          }
-          }
+   
   
   /*# sourceMappingURL=main.css.map */
   
