@@ -2879,6 +2879,16 @@
     width: 600px;
     padding-left: 20px;
             }
+              .owl-carousel .owl-stage {
+          position: relative;
+          -ms-touch-action: pan-Y; }
+        .owl-carousel .owl-stage:after {
+          content: ".";
+          display: block;
+          clear: both;
+          visibility: visible;
+          line-height: 0;
+          height: 0; } 
            
           }
   
