@@ -2851,6 +2851,29 @@
           -moz-transition: all 0.3s ease 0s;
           -o-transition: all 0.3s ease 0s;
           transition: all 0.3s ease 0s; }
+        
+               @media (max-width: 480px){
+           
+              .banner-area{
+                display: block;
+                width: 620px;
+              }
+              .home-banner-area{
+                width: 630px;
+                height: 800px;
+              }
+            .courses-area{
+              width:630px ;
+            }
+            .whole-wrap{
+              width: 630px;
+            }
+            .footer-area{
+              width: 630px;
+              height: 10vh;
+            }
+           
+          }
 
 
    
