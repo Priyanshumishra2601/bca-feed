@@ -1997,7 +1997,7 @@
         /* width: 600px; */
         justify-content: center;
         overflow: hidden;
-        position: fixed;
+        
         display: block;
         flex-direction: column;
         overflow: hidden; }
