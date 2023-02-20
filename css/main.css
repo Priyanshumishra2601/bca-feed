@@ -1785,6 +1785,10 @@
   
   body.mobile-nav-active #mobile-nav {
     left: 0; }
+.banner-content {
+    margin-top: 50px;
+    padding-bottom: 260px;
+}
   
   body.mobile-nav-active #mobile-nav-toggle {
     color: #fff; }
