@@ -91,7 +91,7 @@
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-    border: 1px solid yellow;
+    
     background: #132730;
     font-family: sans-serif;
   }
@@ -261,7 +261,7 @@ padding-top: 200px;
 }
 .button{
   padding-top: 20px;
-  margin: 35px;
+  margin: 5px;
 }
 button{
   letter-spacing: 2px;
