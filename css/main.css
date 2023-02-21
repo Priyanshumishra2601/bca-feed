@@ -1891,6 +1891,18 @@
     width: 102%;
     min-height: 512px; }
 
+ .feature-item {
+      width: 500px;
+      padding: 50px 40px;
+      background: #f1f9ff;
+      margin-bottom: 30px;
+      -webkit-transition: all 0.3s ease 0s;
+      -moz-transition: all 0.3s ease 0s;
+      -o-transition: all 0.3s ease 0s;
+      transition: all 0.3s ease 0s; 
+    }
+
+
 
   @media (max-width: 991px) {
     .about-area .about-left {
@@ -2770,6 +2782,9 @@
   .footer-area {
     background: #283367; }
     @media (max-width: 991px) {
+        .hello{
+              padding-left: 20px;
+            }
       .footer-area .single-footer-widget {
         margin-bottom: 30px; } }
     .footer-area .single-footer-widget h4 {
