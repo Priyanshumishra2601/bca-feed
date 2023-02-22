@@ -264,6 +264,7 @@ padding-top: 200px;
   margin: 5px;
 }
 button{
+  cursor: pointer;
   letter-spacing: 2px;
   font-weight: 600;
   font-size: 1rem;
@@ -273,21 +274,25 @@ button{
   background: none;
   color: antiquewhite;
   margin: 6px;
+  position: relative;
   width: 180px;
   box-shadow: 2px 2px 4px rgba(44,62,80, 1.0),-2px -2px 4px rgba(41,128,185, 1.0);
-  transition: all 300ms ease;
+
 }
 button:hover{
+  position: absolute;
 color: #000;
 background: #93bfd3;
 cursor: pointer;
+} 
+.button a{
+
 }
 button::after{
   z-index: -1;
   border-radius: 20px;
   content: "";
-  
-  top: 0;
+  top: 40;
   left: 100%;
   width: 100%;
   height: 100%;
