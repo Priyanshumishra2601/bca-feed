@@ -1857,15 +1857,19 @@
       margin-top: 40px;
       margin-bottom: 50px; }
       .banner-content .input-wrap .form-box {
-        background: #fff;
+        border: 2px solid beige;
+        background: linear-gradient(45deg, black, transparent);
         max-width: 556px;
+        border-radius: 40px;
         padding: 5px 0px 5px 5px;
         margin: 0 auto; }
       .banner-content .input-wrap .form-control {
-        padding: 0 20px;
-        border-radius: 0;
-        display: inline-block;
-        border: 0; }
+    padding: 0 20px;
+    border-radius: 0;
+    background: none;
+    display: inline-block;
+    border: 0;
+}
         @media (max-width: 480px) {
           .banner-content .input-wrap .form-control {
             font-size: 13px; } }
