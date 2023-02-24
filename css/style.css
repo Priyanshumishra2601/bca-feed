@@ -231,7 +231,7 @@ padding-top: 200px;
     position: absolute;
 }
 .o2{
-  padding-top: 80px;
+  padding-top: 100px;
   text-align: center;
 }
   .bg {
@@ -273,7 +273,7 @@ button{
   font-size: 1rem;
   border: none;
   border-radius: 20px;
-  padding: 20px;
+  padding: 10px;
   background: none;
   color: antiquewhite;
   margin: 20px 10px;
