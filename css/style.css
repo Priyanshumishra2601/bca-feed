@@ -218,6 +218,31 @@ padding-bottom: 700px;
   .b2{
 padding-top: 200px;
   }
+.header .header-content .text-3 {
+    font-size: 4rem;
+    margin: 5px 0;
+    padding-top: 80px;
+font-weight: 900;
+    color:cyan ;
+    background: none;
+    text-align: center;
+    
+}
+.typing{
+  color: #FFBD59;
+ 
+}
+.typing-2{
+  color:#FFBD59;
+  
+}
+.header .header-content .text{
+  font-size: 3rem;
+  font-weight: 600;
+  color: cyan;
+  padding-left: 60px;
+  
+}
 
  
   .t1 {
