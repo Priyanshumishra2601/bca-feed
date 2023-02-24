@@ -219,7 +219,7 @@ padding-bottom: 700px;
 padding-top: 200px;
   }
 .header .header-content .text-3 {
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 5px 0;
     padding-top: 80px;
 font-weight: 900;
@@ -237,10 +237,10 @@ font-weight: 900;
   
 }
 .header .header-content .text{
-  font-size: 3rem;
+  font-size: 2.3rem;
   font-weight: 600;
   color: cyan;
-  padding-left: 60px;
+  padding-left: 20px;
   
 }
 
