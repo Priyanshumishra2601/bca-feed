@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Notes", "Papers", ""],
+        strings: ["Notes", "Passed year Papers", "contents"],
         typeSpeed: 200,
         backSpeed: 120,
         loop: true
