@@ -1555,7 +1555,7 @@
   --------------------------------------------------------------*/
   #header {
     padding: 20px 0;
-    position: fixed;
+       position: absolute;
     left: 0;
     top: 0;
     right: 0;
